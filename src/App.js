@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import JO from './JO.jpg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={JO} className="App-JO" alt="JO" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Feliz Aniversário <code>Parabéns</code> meu AMOR!!
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Clica AQUI AMOR
         </a>
       </header>
     </div>
