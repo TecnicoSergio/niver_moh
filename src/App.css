@@ -4,13 +4,13 @@
 
 
 .App-JO {
-  height: 40vmin;
+  height: 60vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .App-JO {
+    animation: App-JO-spin infinite 20s linear;
   }
 }
 
@@ -29,7 +29,7 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+@keyframes App-JO-spin {
   from {
     transform: rotate(0deg);
   }
