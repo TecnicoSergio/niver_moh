@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import JO from './JO.jpg';
+import JO from './JO.PNG';
 
 function App() {
   return (
@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://fotos-niver-amor.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Clica AQUI AMOR
+          Clica AQUI!!
         </a>
       </header>
     </div>
